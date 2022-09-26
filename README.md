@@ -1,1 +1,35 @@
-![Title: Mustafa Uygur](https://pinboard-uploads-production.operacdn.com/images/2d1c042d-8cdf-4dc0-8ef4-33175e113edc/06efdd90-ed5d-4831-9f44-b8079959be86/dad0e15b-19ef-4166-a3c0-ca395f249ff0.png)
+### Hi There 👋
+
+
+## 📌 GitHub Stats And Top Languages
+
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=uygurrmustafa&show_icons=true&count_private=true&hide=contribs,issues" alt="uygurrmustafa's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=uygurrmustafa&layout=compact&hide=html,css" alt="My Top Langs" />
+</p>
+
+
+## 📚 Learning & Interested
+
+&nbsp;&nbsp;&nbsp;<img height="50" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
+&nbsp;&nbsp;&nbsp;<img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
+&nbsp;&nbsp;&nbsp;<img height="50" src="https://cdn-icons-png.flaticon.com/512/569/569809.png">
+
+
+## 📫 How to Reach Me
+
+[![Linkedin Badge](https://img.shields.io/badge/uygurrmustafa-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uygurrmustafa/)
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
