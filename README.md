@@ -7,7 +7,7 @@ I'm Backend Developer
 I am a curious individual who is eager to learn new knowledge and experiences in every field. I like to produce projects as a team, not individually.
 
 * 🌍  I'm based in Istanbul, Turkey
-* 🖥️  See my portfolio at [It's here](http://github.com/uygurrmustafa)
+* 🖥️  See my portfolio at [It's here](http://github.com/uygurdev)
 * ✉️  You can contact me at [mustafauygur@outlook.com](mailto:mustafauygur@outlook.com)
 * 🧠  I'm learning Angular, React, MAUI
 * 🤝  I'm open to collaborating on kodlamaio-projects / nArchitecture
@@ -40,12 +40,12 @@ src="https://img.shields.io/github/followers/uygurrmustafa?logo=github&style=for
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/uygurrmustafa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/uygurrmustafa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/uygurrmustafa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/uygurrmustafa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/uygurrmustafa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/uygurrmustafa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/mustafauygurnet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/uygurdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/uygurrmustafa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/uygurdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/uygurdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/uygurdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/uygurrmustafa"><img src="https://github-readme-stats.vercel.app/api?username=uygurrmustafa&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="uygurrmustafa's GitHub stats" /></a>
+<a href="http://www.github.com/uygurdev"><img src="https://github-readme-stats.vercel.app/api?username=uygurdev&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="uygurdev's GitHub stats" /></a>
 
-<a href="http://www.github.com/uygurrmustafa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=uygurrmustafa&stroke=ffffff&background=22272e&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/uygurdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=uygurdev&stroke=ffffff&background=22272e&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
