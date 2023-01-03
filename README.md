@@ -7,7 +7,8 @@ I'm Backend Developer
 I am a curious individual who is eager to learn new knowledge and experiences in every field. I like to produce projects as a team, not individually.
 
 * 🌍  I'm based in Istanbul, Turkey
-* 🖥️  See my portfolio at [It's here](http://github.com/uygurdev)
+* 🖥️  See my portfolio at [It's here](https://github.com/uygurdev)
+* 🖥️  See my website at [It's here](https://mustafauygur.net)
 * ✉️  You can contact me at [mustafauygur@outlook.com](mailto:mustafauygur@outlook.com)
 * 🧠  I'm learning Angular, React, MAUI
 * 🤝  I'm open to collaborating on kodlamaio-projects / nArchitecture
