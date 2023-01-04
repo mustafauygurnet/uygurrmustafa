@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mustafa Uygur
 =====================================================================================================================================
 
-I'm Backend Developer
+I'm Backend and QA Developer
 ---------------------
 
 I am a curious individual who is eager to learn new knowledge and experiences in every field. I like to produce projects as a team, not individually.
