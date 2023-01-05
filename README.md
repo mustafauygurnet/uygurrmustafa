@@ -15,8 +15,8 @@ I am a curious individual who is eager to learn new knowledge and experiences in
 * ⚡  I'm amateur dancer.
 
 <a href="https://www.twitter.com/uygurrmustafa" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/uygurrmustafa?logo=twitter&style=for-the-badge&color=a855f7&labelColor=22272e"
-/></a><a href="https://www.github.com/uygurrmustafa" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/uygurdev?logo=twitter&style=for-the-badge&color=a855f7&labelColor=22272e"
+/></a><a href="https://www.github.com/uygurdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/uygurrmustafa?logo=github&style=for-the-badge&color=a855f7&labelColor=22272e" /></a>
 
 ### Skills
